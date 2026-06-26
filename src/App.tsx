@@ -62,6 +62,7 @@ const RECIPES = [
     ing:["2 filetes de bacalao","100g aceitunas negras","150g tomates cherry","Ajo","Alcaparras","Aceite de oliva extra virgen"],
     steps:["Sella el bacalao en aceite de oliva caliente 3 minutos por lado.","En la misma sartén sofríe el ajo picado 1 minuto.","Agrega los tomates cherry y aplasta levemente.","Incorpora las aceitunas y las alcaparras.","Coloca el bacalao encima y tapa 5 minutos.","Termina con aceite de oliva crudo y sirve."] },
   { id:10, cat:"keto", title:"Carne Molida con Coliflor",            time:"20 min", diff:"Fácil",    pts:10, img:"https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=70",
+  audioSrc:"https://nutrichef-cdn.b-cdn.net/keto%20receta%2010.mp3",
     ing:["300g carne molida","1 coliflor mediana","Cebolla","Ajo","Pimentón","Sal y comino"],
     steps:["Procesa la coliflor en trozos pequeños tipo arroz.","Cocina la coliflor en sartén seca 5 minutos y reserva.","Sofríe la cebolla y el ajo en la misma sartén.","Agrega la carne molida y cocina hasta dorar.","Sazona con pimentón, sal y comino.","Mezcla con la coliflor y sirve caliente."] },
   { id:11, cat:"keto", title:"Ensalada de Pollo con Aguacate",       time:"15 min", diff:"Fácil",    pts:10, img:"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=70",
