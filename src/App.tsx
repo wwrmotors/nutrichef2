@@ -682,7 +682,7 @@ function RecipeModal({recipe,onClose,onCook,cooked,onViewRecipe}){
 // ► Reemplaza CHEF_VIDEO_URL con tu video de chef IA
 // ► Cada receta puede tener: audioSrc (ruta del mp3 de ElevenLabs)
 // ► Cada paso puede tener: { text: "...", timer: N }  donde N = minutos
-const CHEF_VIDEO_URL = "https://www.w3schools.com/html/mov_bbb.mp4";
+const CHEF_VIDEO_URL = "https://player.mediadelivery.net/play/691450/9b452864-7dae-4692-8ee5-234e70428f86";
 
 // Helper: normaliza steps (string legacy o objeto nuevo)
 function normalizeSteps(steps){
