@@ -34,6 +34,7 @@ const RECIPES = [
       {text:"Exprime limón sobre todo y sirve."}
     ] },
   { id:3,  cat:"keto", title:"Hamburguesa Keto sin Pan",             time:"15 min", diff:"Fácil",    pts:10, img:"https://images.unsplash.com/photo-1550317138-10000687a72b?w=400&q=70",
+  audioSrc:"https://nutrichef-cdn.b-cdn.net/keto%20receta%203.mp3",
     ing:["300g carne molida 80/20","Hojas de lechuga romana","Queso cheddar","Tocino","Mostaza sin azúcar","Tomate y cebolla"],
     steps:["Mezcla la carne con sal, pimienta y ajo en polvo.","Forma dos medallones gruesos y aplánalos.","Cocina en sartén caliente 3 minutos por lado.","Añade queso cheddar y tapa 30 segundos.","Fríe el tocino hasta que esté crujiente.","Arma la hamburguesa con hojas de lechuga como pan."] },
   { id:4,  cat:"keto", title:"Pollo en Salsa de Crema y Champiñones",time:"25 min", diff:"Media",    pts:20, img:"https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=400&q=70",
