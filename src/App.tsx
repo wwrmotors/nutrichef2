@@ -945,11 +945,11 @@ function ChefPage({recipe, onClose, onCook, cooked}){
           border:`1.5px solid ${cat.color}44`,
           boxShadow:`0 0 32px ${cat.color}1a, 0 8px 32px rgba(0,0,0,0.6)`}}>
 
-          <video ref={videoRef} src={CHEF_VIDEO_URL}
-            autoPlay loop muted playsInline
-            style={{width:"100%",height:200,objectFit:"cover",display:"block",
-              filter:audioPlaying?"brightness(1.05)":"brightness(0.55) saturate(0.6)",
-              transition:"filter 0.6s"}}/>
+<iframe
+  src="https://iframe.mediadelivery.net/embed/691450/9b452864-7dae-4692-8ee5-234e70428f86?autoplay=true&loop=true&muted=true"
+  style={{width:"100%", height:200, border:"none", borderRadius:"inherit"}}
+  allow="autoplay"
+/>
 
           {/* Speaking waves overlay when audio plays */}
           {audioPlaying&&(
