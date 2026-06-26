@@ -12,7 +12,7 @@ const CATEGORIES = [
 const RECIPES = [
   // ── KETO (20) ──────────────────────────────────────────────────────────────
   { id:1,  cat:"keto", title:"Bowl de Aguacate con Huevo",          time:"10 min", diff:"Fácil",    pts:10, img:"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=70",
-    audioSrc:"/audios/receta-1.mp3",
+  audioSrc:"https://nutrichef-cdn.b-cdn.net/keto%20receta%201.mp3",
     ing:["2 aguacates maduros","2 huevos","Sal y pimienta","Jugo de limón","Chile en polvo"],
     steps:[
       {text:"Corta los aguacates por la mitad y retira el hueso."},
