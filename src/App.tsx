@@ -54,6 +54,7 @@ const RECIPES = [
     ing:["1kg costillas de cerdo","Pimentón ahumado","Ajo en polvo","Sal y pimienta","Aceite de oliva","Romero seco"],
     steps:["Seca las costillas con papel de cocina y retira la membrana.","Mezcla todas las especias y frota la mezcla en las costillas.","Envuelve en papel aluminio y deja marinar 30 minutos.","Hornea a 160°C por 1 hora dentro del papel aluminio.","Destapa y sube a 220°C por 15 minutos para dorar.","Deja reposar 10 minutos antes de cortar."] },
   { id:8,  cat:"keto", title:"Tortilla de Espinaca y Queso",         time:"10 min", diff:"Fácil",    pts:10, img:"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&q=70",
+  audioSrc:"https://nutrichef-cdn.b-cdn.net/keto%20receta%208.mp3",
     ing:["3 huevos","1 taza espinaca fresca","50g queso mozzarella","1 diente de ajo","Mantequilla","Sal y pimienta"],
     steps:["Bate los huevos con sal y pimienta en un tazón.","Derrite mantequilla en sartén a fuego medio.","Saltea el ajo y la espinaca 1 minuto hasta que se marchite.","Vierte los huevos batidos sobre la espinaca.","Agrega el queso cuando los bordes estén cuajados.","Dobla la tortilla a la mitad y sirve caliente."] },
   { id:9,  cat:"keto", title:"Bacalao con Aceitunas y Tomate Cherry", time:"20 min", diff:"Media",    pts:20, img:"https://images.unsplash.com/photo-1559847844-5315695dadae?w=400&q=70",
