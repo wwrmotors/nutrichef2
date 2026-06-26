@@ -23,7 +23,7 @@ const RECIPES = [
       {text:"Exprime limón fresco y sirve de inmediato."}
     ] },
   { id:2,  cat:"keto", title:"Salmón al Limón con Espárragos",      time:"20 min", diff:"Media",    pts:20, img:"https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&q=70",
-    audioSrc:"/audios/receta-2.mp3",
+  audioSrc:"https://nutrichef-cdn.b-cdn.net/keto%20receta%202.mp3",
     ing:["2 filetes de salmón","200g espárragos","2 dientes de ajo","Mantequilla sin sal","Limón","Romero fresco"],
     steps:[
       {text:"Precalienta sartén a fuego medio alto con mantequilla."},
