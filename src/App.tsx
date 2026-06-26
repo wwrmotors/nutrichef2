@@ -58,6 +58,7 @@ const RECIPES = [
     ing:["3 huevos","1 taza espinaca fresca","50g queso mozzarella","1 diente de ajo","Mantequilla","Sal y pimienta"],
     steps:["Bate los huevos con sal y pimienta en un tazón.","Derrite mantequilla en sartén a fuego medio.","Saltea el ajo y la espinaca 1 minuto hasta que se marchite.","Vierte los huevos batidos sobre la espinaca.","Agrega el queso cuando los bordes estén cuajados.","Dobla la tortilla a la mitad y sirve caliente."] },
   { id:9,  cat:"keto", title:"Bacalao con Aceitunas y Tomate Cherry", time:"20 min", diff:"Media",    pts:20, img:"https://images.unsplash.com/photo-1559847844-5315695dadae?w=400&q=70",
+  audioSrc:"https://nutrichef-cdn.b-cdn.net/keto%20receta%209.mp3",
     ing:["2 filetes de bacalao","100g aceitunas negras","150g tomates cherry","Ajo","Alcaparras","Aceite de oliva extra virgen"],
     steps:["Sella el bacalao en aceite de oliva caliente 3 minutos por lado.","En la misma sartén sofríe el ajo picado 1 minuto.","Agrega los tomates cherry y aplasta levemente.","Incorpora las aceitunas y las alcaparras.","Coloca el bacalao encima y tapa 5 minutos.","Termina con aceite de oliva crudo y sirve."] },
   { id:10, cat:"keto", title:"Carne Molida con Coliflor",            time:"20 min", diff:"Fácil",    pts:10, img:"https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=70",
